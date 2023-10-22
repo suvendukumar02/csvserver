@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CSV Server</title>
+  <style>
+  th, td {
+    padding: 5px;
+  }
+  </style>
+</head>
+<body>
+<!-- Y3N2c2VydmVyIGdlbmVyYXRlZCBhdDogMTY5Nzk1ODA1OA== -->
+<h3 style="border:3px solid Orange">Welcome to the CSV Server</h3><table><tr><th>Index</th><th>Value</th></tr><tr><td>2</td><td> 549</td></tr><tr><td>3</td><td> 290</td></tr><tr><td>4</td><td> 748</td></tr><tr><td>5</td><td> 725</td></tr><tr><td>6</td><td> 677</td></tr><tr><td>7</td><td> 549</td></tr><tr><td>8</td><td> 138</td></tr></table></body></html>
